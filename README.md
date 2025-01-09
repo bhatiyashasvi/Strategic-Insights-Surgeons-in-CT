@@ -20,3 +20,7 @@ Partnership Expansion:
 Marketing Campaigns:
 - Suggested sentiment analysis and competitor analysis to understand patient satisfaction, recovery rates, and market positioning.
 - Recommended actionable strategies like A/B testing, referral discounts, and using patient testimonials to improve marketing outcomes.
+
+[![Tableau Dashboard](https://github.com/user-attachments/assets/1c7d9d16-12be-4742-87f7-92b060fb2362)](https://public.tableau.com/app/profile/yashasvi.bhati/viz/Licensed-Surgeons-CT/Sheet1)
+
+
